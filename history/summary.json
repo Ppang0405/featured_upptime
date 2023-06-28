@@ -4,7 +4,7 @@
     "url": "https://featured-jav-backend.jeremyoppa.fun",
     "icon": "https://icons.duckduckgo.com/ip3/featured-jav-backend.jeremyoppa.fun.ico",
     "slug": "featured-jav",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 3899,
     "timeYear": 3708,
     "dailyMinutesDown": {
+      "2023-06-28": 0,
       "2023-04-21": 16,
       "2023-04-17": 47
     }
