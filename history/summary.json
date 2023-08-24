@@ -4,15 +4,15 @@
     "url": "https://featured-jav-backend.jeremyoppa.fun",
     "icon": "https://icons.duckduckgo.com/ip3/featured-jav-backend.jeremyoppa.fun.ico",
     "slug": "featured-jav",
-    "status": "up",
-    "uptime": "97.61%",
+    "status": "down",
+    "uptime": "97.64%",
     "uptimeDay": "48.04%",
-    "uptimeWeek": "51.06%",
-    "uptimeMonth": "88.74%",
-    "uptimeYear": "97.61%",
+    "uptimeWeek": "51.55%",
+    "uptimeMonth": "88.85%",
+    "uptimeYear": "97.64%",
     "time": 1054,
     "timeDay": 202,
-    "timeWeek": 288,
+    "timeWeek": 289,
     "timeMonth": 330,
     "timeYear": 1054,
     "dailyMinutesDown": {
@@ -23,7 +23,7 @@
       "2023-08-20": 659,
       "2023-08-19": 607,
       "2023-08-18": 791,
-      "2023-08-17": 163
+      "2023-08-17": 113
     }
   }
 ]
